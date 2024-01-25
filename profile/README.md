@@ -2,6 +2,6 @@
 
 Modules that have the following properties will be published here.
 
-• have no external dependencies whatsoever except for @anio-js-core-foundation packages.
+• have no external dependencies whatsoever except for [@anio-js-core-foundation](https://github.com/anio-js-core-foundation) packages.
 
 • fulfill a simple task (ideally one file packages wit about 50-100 lines). 
